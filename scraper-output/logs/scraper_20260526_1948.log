@@ -1,0 +1,107 @@
+19:48:00  INFO      scraper started
+19:48:00  INFO      format : excel
+19:48:00  INFO      output : C:\Users\youss\Desktop\scraper-output
+19:48:00  INFO      fetching http://books.toscrape.com/catalogue/page-1.html  (attempt 1/3)
+19:48:02  INFO      pages: 1 to 50  (site total: 50)
+19:48:02  INFO      fetching http://books.toscrape.com/catalogue/page-1.html  (attempt 1/3)
+19:48:03  INFO      page 1/50 -> 20 books scraped
+19:48:04  INFO      fetching http://books.toscrape.com/catalogue/page-2.html  (attempt 1/3)
+19:48:05  INFO      page 2/50 -> 20 books scraped
+19:48:06  INFO      fetching http://books.toscrape.com/catalogue/page-3.html  (attempt 1/3)
+19:48:07  INFO      page 3/50 -> 20 books scraped
+19:48:08  INFO      fetching http://books.toscrape.com/catalogue/page-4.html  (attempt 1/3)
+19:48:09  INFO      page 4/50 -> 20 books scraped
+19:48:10  INFO      fetching http://books.toscrape.com/catalogue/page-5.html  (attempt 1/3)
+19:48:10  INFO      page 5/50 -> 20 books scraped
+19:48:11  INFO      fetching http://books.toscrape.com/catalogue/page-6.html  (attempt 1/3)
+19:48:12  INFO      page 6/50 -> 20 books scraped
+19:48:13  INFO      fetching http://books.toscrape.com/catalogue/page-7.html  (attempt 1/3)
+19:48:14  INFO      page 7/50 -> 20 books scraped
+19:48:15  INFO      fetching http://books.toscrape.com/catalogue/page-8.html  (attempt 1/3)
+19:48:15  INFO      page 8/50 -> 20 books scraped
+19:48:16  INFO      fetching http://books.toscrape.com/catalogue/page-9.html  (attempt 1/3)
+19:48:17  INFO      page 9/50 -> 20 books scraped
+19:48:18  INFO      fetching http://books.toscrape.com/catalogue/page-10.html  (attempt 1/3)
+19:48:18  INFO      page 10/50 -> 20 books scraped
+19:48:19  INFO      fetching http://books.toscrape.com/catalogue/page-11.html  (attempt 1/3)
+19:48:20  INFO      page 11/50 -> 20 books scraped
+19:48:21  INFO      fetching http://books.toscrape.com/catalogue/page-12.html  (attempt 1/3)
+19:48:22  INFO      page 12/50 -> 20 books scraped
+19:48:23  INFO      fetching http://books.toscrape.com/catalogue/page-13.html  (attempt 1/3)
+19:48:31  INFO      page 13/50 -> 20 books scraped
+19:48:32  INFO      fetching http://books.toscrape.com/catalogue/page-14.html  (attempt 1/3)
+19:48:33  INFO      page 14/50 -> 20 books scraped
+19:48:34  INFO      fetching http://books.toscrape.com/catalogue/page-15.html  (attempt 1/3)
+19:48:35  INFO      page 15/50 -> 20 books scraped
+19:48:36  INFO      fetching http://books.toscrape.com/catalogue/page-16.html  (attempt 1/3)
+19:48:38  INFO      page 16/50 -> 20 books scraped
+19:48:39  INFO      fetching http://books.toscrape.com/catalogue/page-17.html  (attempt 1/3)
+19:48:41  INFO      page 17/50 -> 20 books scraped
+19:48:42  INFO      fetching http://books.toscrape.com/catalogue/page-18.html  (attempt 1/3)
+19:48:42  INFO      page 18/50 -> 20 books scraped
+19:48:43  INFO      fetching http://books.toscrape.com/catalogue/page-19.html  (attempt 1/3)
+19:48:44  INFO      page 19/50 -> 20 books scraped
+19:48:45  INFO      fetching http://books.toscrape.com/catalogue/page-20.html  (attempt 1/3)
+19:48:47  INFO      page 20/50 -> 20 books scraped
+19:48:48  INFO      fetching http://books.toscrape.com/catalogue/page-21.html  (attempt 1/3)
+19:48:48  INFO      page 21/50 -> 20 books scraped
+19:48:49  INFO      fetching http://books.toscrape.com/catalogue/page-22.html  (attempt 1/3)
+19:48:50  INFO      page 22/50 -> 20 books scraped
+19:48:51  INFO      fetching http://books.toscrape.com/catalogue/page-23.html  (attempt 1/3)
+19:48:52  INFO      page 23/50 -> 20 books scraped
+19:48:53  INFO      fetching http://books.toscrape.com/catalogue/page-24.html  (attempt 1/3)
+19:48:53  INFO      page 24/50 -> 20 books scraped
+19:48:54  INFO      fetching http://books.toscrape.com/catalogue/page-25.html  (attempt 1/3)
+19:48:55  INFO      page 25/50 -> 20 books scraped
+19:48:56  INFO      fetching http://books.toscrape.com/catalogue/page-26.html  (attempt 1/3)
+19:48:57  INFO      page 26/50 -> 20 books scraped
+19:48:58  INFO      fetching http://books.toscrape.com/catalogue/page-27.html  (attempt 1/3)
+19:48:58  INFO      page 27/50 -> 20 books scraped
+19:48:59  INFO      fetching http://books.toscrape.com/catalogue/page-28.html  (attempt 1/3)
+19:49:00  INFO      page 28/50 -> 20 books scraped
+19:49:01  INFO      fetching http://books.toscrape.com/catalogue/page-29.html  (attempt 1/3)
+19:49:01  INFO      page 29/50 -> 20 books scraped
+19:49:02  INFO      fetching http://books.toscrape.com/catalogue/page-30.html  (attempt 1/3)
+19:49:04  INFO      page 30/50 -> 20 books scraped
+19:49:05  INFO      fetching http://books.toscrape.com/catalogue/page-31.html  (attempt 1/3)
+19:49:05  INFO      page 31/50 -> 20 books scraped
+19:49:06  INFO      fetching http://books.toscrape.com/catalogue/page-32.html  (attempt 1/3)
+19:49:07  INFO      page 32/50 -> 20 books scraped
+19:49:08  INFO      fetching http://books.toscrape.com/catalogue/page-33.html  (attempt 1/3)
+19:49:09  INFO      page 33/50 -> 20 books scraped
+19:49:10  INFO      fetching http://books.toscrape.com/catalogue/page-34.html  (attempt 1/3)
+19:49:11  INFO      page 34/50 -> 20 books scraped
+19:49:12  INFO      fetching http://books.toscrape.com/catalogue/page-35.html  (attempt 1/3)
+19:49:14  INFO      page 35/50 -> 20 books scraped
+19:49:15  INFO      fetching http://books.toscrape.com/catalogue/page-36.html  (attempt 1/3)
+19:49:16  INFO      page 36/50 -> 20 books scraped
+19:49:17  INFO      fetching http://books.toscrape.com/catalogue/page-37.html  (attempt 1/3)
+19:49:17  INFO      page 37/50 -> 20 books scraped
+19:49:18  INFO      fetching http://books.toscrape.com/catalogue/page-38.html  (attempt 1/3)
+19:49:19  INFO      page 38/50 -> 20 books scraped
+19:49:20  INFO      fetching http://books.toscrape.com/catalogue/page-39.html  (attempt 1/3)
+19:49:21  INFO      page 39/50 -> 20 books scraped
+19:49:22  INFO      fetching http://books.toscrape.com/catalogue/page-40.html  (attempt 1/3)
+19:49:23  INFO      page 40/50 -> 20 books scraped
+19:49:24  INFO      fetching http://books.toscrape.com/catalogue/page-41.html  (attempt 1/3)
+19:49:24  INFO      page 41/50 -> 20 books scraped
+19:49:25  INFO      fetching http://books.toscrape.com/catalogue/page-42.html  (attempt 1/3)
+19:49:26  INFO      page 42/50 -> 20 books scraped
+19:49:27  INFO      fetching http://books.toscrape.com/catalogue/page-43.html  (attempt 1/3)
+19:49:28  INFO      page 43/50 -> 20 books scraped
+19:49:29  INFO      fetching http://books.toscrape.com/catalogue/page-44.html  (attempt 1/3)
+19:49:29  INFO      page 44/50 -> 20 books scraped
+19:49:30  INFO      fetching http://books.toscrape.com/catalogue/page-45.html  (attempt 1/3)
+19:49:32  INFO      page 45/50 -> 20 books scraped
+19:49:33  INFO      fetching http://books.toscrape.com/catalogue/page-46.html  (attempt 1/3)
+19:49:33  INFO      page 46/50 -> 20 books scraped
+19:49:34  INFO      fetching http://books.toscrape.com/catalogue/page-47.html  (attempt 1/3)
+19:49:35  INFO      page 47/50 -> 20 books scraped
+19:49:36  INFO      fetching http://books.toscrape.com/catalogue/page-48.html  (attempt 1/3)
+19:49:36  INFO      page 48/50 -> 20 books scraped
+19:49:37  INFO      fetching http://books.toscrape.com/catalogue/page-49.html  (attempt 1/3)
+19:49:38  INFO      page 49/50 -> 20 books scraped
+19:49:39  INFO      fetching http://books.toscrape.com/catalogue/page-50.html  (attempt 1/3)
+19:49:40  INFO      page 50/50 -> 20 books scraped
+19:49:41  INFO      results saved -> C:\Users\youss\Desktop\scraper-output\books_20260526_1949.xlsx
+19:49:41  INFO      done — 1000 books total  |  0 pages failed
